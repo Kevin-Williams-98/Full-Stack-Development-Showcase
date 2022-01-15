@@ -11,7 +11,7 @@ Initial WireFrame (5 different images)
 ![alt text](https://github.com/Kevin-Williams-98/Kevin-Williams-98.github.io/blob/main/WireFrameFinal-images/0005.jpg)
 
 
-Initial site map
+Site Structure
 ![Initial site map](https://github.com/Kevin-Williams-98/Kevin-Williams-98.github.io/blob/main/kings%20college%20sitemap%201.pdf)
 
 
